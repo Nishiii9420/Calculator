@@ -34,7 +34,7 @@
     top: 52%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: #ed139d8c;
+    background: #1e15248c;
     border: 1px solid rgb(3, 81, 53);
     border-radius: 25px;
     display: grid;
@@ -53,14 +53,14 @@
     /* border: 1px solid white; */
     border-style: none;
     outline: none;
-    background-color: rgba(67, 184, 247, 0.6);
+    background-color: rgba(77, 90, 236, 0.6);
     transition: all .45s;
     margin: 5px;
     border-radius: 50px;
   }
 
   .calculator-grid > button:hover {
-    background-color: rgba(215, 45, 45, 0.9);
+    background-color: rgba(2, 2, 2, 0.9);
     color: #fff;
   }
 
@@ -69,11 +69,11 @@
   }
 
   #equal {
-    background: rgb(255 141 0);
+    background: rgb(129, 13, 13);
   }
 
   #equal:hover {
-    background-color: rgba(215, 45, 45, 0.9);
+    background-color: rgba(15, 10, 10, 0.9);
     color: #fff;
   }
 
